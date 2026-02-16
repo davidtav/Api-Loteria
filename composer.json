@@ -1,0 +1,8 @@
+{
+    "name":"david-mclaurel/api-megasena",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
